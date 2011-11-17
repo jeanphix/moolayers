@@ -46,5 +46,5 @@ Runing tests
 
 requirements: PhantomJS
 
-    git submodule init && git submodule update  # Checkouts CasperJS
+    git submodule init && git submodule update  # Checks out CasperJS
     phantomjs test.js
