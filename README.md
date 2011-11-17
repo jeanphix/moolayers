@@ -1,5 +1,4 @@
-Moolayers
-=========
+# Moolayers
 
 
 Creates OpenLayers maps.
@@ -7,8 +6,10 @@ Creates OpenLayers maps.
 Demo at: http://jean-philippe.github.com/moolayers
 
 
-Simple map
-----------
+## How to use
+
+
+### Simple map:
 
     <div id="map" data-zoom="1.5">
         <nav>
@@ -28,8 +29,7 @@ Simple map
     </script>
 
 
-Marker service
---------------
+### Marker service
 
     <div id="map" data-zoom="1.5" data-markers-service="markers.json" />
 
@@ -47,8 +47,7 @@ expected json format:
     }
 
 
-Runing tests
-------------
+## Runing tests
 
 requirements: PhantomJS
 
