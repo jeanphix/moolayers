@@ -1,6 +1,6 @@
 phantom.injectJs('casperjs/casper.js');
 
-var url = 'http://www.moolayers.loc';
+var url = 'http://jean-philippe.github.com/moolayers';
 
 var casper = new phantom.Casper();
 

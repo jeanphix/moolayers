@@ -1,3 +1,6 @@
 [submodule "casperjs"]
 	path = casperjs
 	url = https://github.com/n1k0/casperjs.git
+[submodule "_gh_pages"]
+	path = _gh_pages
+	url = git@github.com:jean-philippe/moolayers.git
