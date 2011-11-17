@@ -4,6 +4,8 @@ Moolayers
 
 Creates OpenLayers maps.
 
+Demo at: http://jean-philippe.github.com/moolayers
+
 
 Simple map
 ----------
