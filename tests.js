@@ -5,7 +5,7 @@ var url = 'http://jean-philippe.github.com/moolayers';
 var casper = new phantom.Casper();
 
 var addFakeGeolocation = function(self, latitude, longitude) {
-    self.evaluate(function(){
+    self.evaluate(function() {
         window.navigator.geolocation = function() {
             var pub = {};
             var current_pos = {
@@ -24,7 +24,7 @@ var addFakeGeolocation = function(self, latitude, longitude) {
 };
 
 function getMap(self) {
-    return self.evaluate(function(){
+    return self.evaluate(function() {
         return map._map;
     });
 }
