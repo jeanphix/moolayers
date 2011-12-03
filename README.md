@@ -3,7 +3,7 @@
 
 Creates OpenLayers maps.
 
-Demo at: http://jean-philippe.github.com/moolayers
+Demo at: http://jeanphix.github.com/moolayers
 
 
 ## How to use
